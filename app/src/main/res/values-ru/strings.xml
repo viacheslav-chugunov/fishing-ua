@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Рыбалка UA</string>
+
+    <!--  Simple string resources, used in .xml files  -->
+    <string name="what_you_can_head">Что тут можно встретить:</string>
+    <string name="fish_bait">Наживка для этой рыбы:</string>
+
+    <!--  Areas names  -->
+    <string name="kozintsa_name">Козинцы</string>
+    <string name="Kiev_reservoir_name">Киевское водохранилище</string>
+
+    <!--  Fishes names  -->
+    <string name="pike_name">Щука</string>
+    <string name="grayling_name">Хариус</string>
+    <string name="podust_name">Подуст</string>
+    <string name="crucian_name">Карась</string>
+    <string name="bream_name">Лещ</string>
+    <string name="roach_name">Плотва</string>
+    <string name="zander_name">Судак</string>
+    <string name="carp_name">Карп</string>
+    <string name="catfish_name">Сом</string>
+    <string name="asp_name">Жерех</string>
+    <string name="tench_name">Линь</string>
+    <string name="perch_name">Окунь</string>
+
+    <!--  Bait names  -->
+    <string name="worm_name">Червь</string>
+    <string name="caddis_fly_name">Ручейник</string>
+    <string name="bloodsucker_name">Пиявка</string>
+    <string name="live_bait_name">Живец</string>
+    <string name="frog_name">Лягушка</string>
+    <string name="lamprey_name">Речная минога</string>
+    <string name="zooplankton_name">Зоопланктон</string>
+    <string name="maggot_name">Личинка</string>
+    <string name="bread_name">Хлеб</string>
+    <string name="pearl_barley_name">Перловка</string>
+    <string name="peas_name">Горох</string>
+    <string name="crank_name">Мотыль</string>
+    <string name="bleak_name">Уклейка</string>
+    <string name="gudgeon_name">Пескарь</string>
+    <string name="mollusk_name">Моллюск</string>
+    <string name="whitebait_name">Малёк</string>
+</resources>

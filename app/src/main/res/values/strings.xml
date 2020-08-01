@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">FishingUA</string>
+
+    <!--  Simple string resources, used in .xml files  -->
+    <string name="what_you_can_head">What you might head here:</string>
+    <string name="fish_bait">There are baits for this:</string>
+
+    <!--  Areas names  -->
+    <string name="kozintsa_name">Kozintsa</string>
+    <string name="Kiev_reservoir_name">Kiev reservoir</string>
+
+    <!--  Fishes names  -->
+    <string name="pike_name">Pike</string>
+    <string name="grayling_name">Grayling</string>
+    <string name="podust_name">Podust</string>
+    <string name="crucian_name">Crucian</string>
+    <string name="bream_name">Bream</string>
+    <string name="roach_name">Roach</string>
+    <string name="zander_name">Zander</string>
+    <string name="carp_name">Carp</string>
+    <string name="catfish_name">Catfish</string>
+    <string name="asp_name">Asp</string>
+    <string name="tench_name">Tench</string>
+    <string name="perch_name">Perch</string>
+
+    <!--  Bait names  -->
+    <string name="worm_name">Worm</string>
+    <string name="caddis_fly_name">Caddis fly</string>
+    <string name="bloodsucker_name">Bloodsucker</string>
+    <string name="live_bait_name">Live bait</string>
+    <string name="frog_name">Frog</string>
+    <string name="lamprey_name">Lamprey</string>
+    <string name="zooplankton_name">Zooplankton</string>
+    <string name="maggot_name">Maggot</string>
+    <string name="bread_name">Bread</string>
+    <string name="pearl_barley_name">Pearl barley</string>
+    <string name="peas_name">Peas</string>
+    <string name="crank_name">Crank</string>
+    <string name="bleak_name">Bleak</string>
+    <string name="gudgeon_name">Gudgeon</string>
+    <string name="mollusk_name">Mollusk</string>
+    <string name="whitebait_name">Whitebait</string>
+</resources>
