@@ -8,6 +8,7 @@
     <!--  Areas names  -->
     <string name="kozintsa_name">Kozintsa</string>
     <string name="Kiev_reservoir_name">Kiev reservoir</string>
+    <string name="amateur_pond_name">Amateur pond</string>
 
     <!--  Fishes names  -->
     <string name="pike_name">Pike</string>
@@ -22,6 +23,9 @@
     <string name="asp_name">Asp</string>
     <string name="tench_name">Tench</string>
     <string name="perch_name">Perch</string>
+    <string name="silver_carp_name">Silver carp</string>
+    <string name="amur_name">Amur</string>
+    <string name="ruff_name">Ruff</string>
 
     <!--  Bait names  -->
     <string name="worm_name">Worm</string>
@@ -40,4 +44,11 @@
     <string name="gudgeon_name">Gudgeon</string>
     <string name="mollusk_name">Mollusk</string>
     <string name="whitebait_name">Whitebait</string>
+    <string name="corn_name">Corn</string>
+    <string name="pelets_name">Pelets</string>
+    <string name="cabbage_name">Cabbage</string>
+    <string name="fennel_name">Fennel</string>
+    <string name="cucumber_name">Cucumber</string>
+    <string name="cherry_name">Cherry</string>
+    <string name="sweet_cherry_name">Sweet cherry</string>
 </resources>

@@ -16,3 +16,6 @@ object Catfish : Fish(string.catfish_name, drawable.catfish, Worm, Frog, Bloodsu
 object Asp : Fish(string.asp_name, drawable.asp, Worm, Whitebait)
 object Tench : Fish(string.tench_name, drawable.tench, Worm, Maggot)
 object Perch : Fish(string.perch_name, drawable.perch, Worm, Maggot)
+object SilverCarp : Fish(string.silver_carp_name, drawable.silver_carp, Corn, Peas, Bread, Pelets)
+object Amur : Fish(string.amur_name, drawable.amur, Cabbage, Fennel, Cucumber, Peas, Corn, Cherry, SweetCherry)
+object Ruff : Fish(string.ruff_name, drawable.ruff, Worm, Crank)

@@ -13,7 +13,7 @@ open class Fish(nameResId: Int, drawableResId: Int, vararg baits: Bait) {
 
     companion object {
         fun getFishes() = arrayOf(Pike, Grayling, Podust, Crucian, Bream, Roach, Zander, Carp,
-            Catfish, Asp, Tench, Perch)
+            Catfish, Asp, Tench, Perch, SilverCarp, Amur, Ruff)
 
         fun getFish(name: String) : Fish {
             for (fish in getFishes()) {

@@ -9,6 +9,7 @@
     <!--  Areas names  -->
     <string name="kozintsa_name">Козинцы</string>
     <string name="Kiev_reservoir_name">Киевское водохранилище</string>
+    <string name="amateur_pond_name">Любительский пруд</string>
 
     <!--  Fishes names  -->
     <string name="pike_name">Щука</string>
@@ -23,6 +24,9 @@
     <string name="asp_name">Жерех</string>
     <string name="tench_name">Линь</string>
     <string name="perch_name">Окунь</string>
+    <string name="silver_carp_name">Толстолобик</string>
+    <string name="amur_name">Амур</string>
+    <string name="ruff_name">Ёрш</string>
 
     <!--  Bait names  -->
     <string name="worm_name">Червь</string>
@@ -41,4 +45,11 @@
     <string name="gudgeon_name">Пескарь</string>
     <string name="mollusk_name">Моллюск</string>
     <string name="whitebait_name">Малёк</string>
+    <string name="corn_name">Кукуруза</string>
+    <string name="pelets_name">Пелетс</string>
+    <string name="cabbage_name">Капуста</string>
+    <string name="fennel_name">Укроп</string>
+    <string name="cucumber_name">Огурец</string>
+    <string name="cherry_name">Вишня</string>
+    <string name="sweet_cherry_name">Черешня</string>
 </resources>
