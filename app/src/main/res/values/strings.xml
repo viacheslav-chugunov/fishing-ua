@@ -11,6 +11,7 @@
     <string name="amateur_pond_name">Amateur pond</string>
     <string name="ostapovka_name">Ostapovka</string>
     <string name="kutsevolovka_name">Kutsevolovka</string>
+    <string name="red_flag_name">Rad flag</string>
 
     <!--  Fishes names  -->
     <string name="pike_name">Pike</string>

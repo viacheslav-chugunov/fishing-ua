@@ -14,7 +14,7 @@ open class Area(nameResId: Int, drawableResId: Int, val mapPosition: GoogleMapPo
     class GoogleMapPosition(val x: Double, val y: Double)
 
     companion object {
-        fun getAreas() = arrayOf(Kozintsa, KievReservoir, AmateurPond, Ostapovka, Kutsevolovka)
+        fun getAreas() = arrayOf(Kozintsa, KievReservoir, AmateurPond, Ostapovka, Kutsevolovka, RadFlag)
 
         fun getArea(name: String) : Area {
             for (area in getAreas()) {
