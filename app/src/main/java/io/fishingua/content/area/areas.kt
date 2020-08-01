@@ -18,3 +18,7 @@ object RadFlag : Area(string.red_flag_name, drawable.red_flag, GoogleMapPosition
     Carp, Crucian, SilverCarp, Amur, Zander, Pike)
 object Korobchino : Area(string.korobchino_name, drawable.korobchino, GoogleMapPosition(48.7612597, 31.4763808),
     Carp, Crucian, SilverCarp, Amur, Zander, Pike)
+object Svetlogorskoe : Area(string.svetlogorskoe_name, drawable.svetlogorskoe, GoogleMapPosition(48.886614, 34.0691895),
+    Carp, Crucian, SilverCarp, Amur, Zander, Pike)
+object FunGrove : Area(string.fun_grove_name, drawable.fun_grove, GoogleMapPosition(48.5176804, 34.3826942),
+    Carp, Crucian, SilverCarp, Amur, Zander, Perch, Roach)
