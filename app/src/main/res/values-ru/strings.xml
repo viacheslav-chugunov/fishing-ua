@@ -10,6 +10,7 @@
     <string name="kozintsa_name">Козинцы</string>
     <string name="Kiev_reservoir_name">Киевское водохранилище</string>
     <string name="amateur_pond_name">Любительский пруд</string>
+    <string name="ostapovka_name">Остаповка</string>
 
     <!--  Fishes names  -->
     <string name="pike_name">Щука</string>
