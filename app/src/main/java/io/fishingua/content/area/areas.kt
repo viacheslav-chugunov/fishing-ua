@@ -16,3 +16,5 @@ object Kutsevolovka : Area(string.kutsevolovka_name, drawable.kutsevolovka, Goog
     Catfish, Pike, Asp, Bream, Perch, Crucian, Zander, Carp, Roach)
 object RadFlag : Area(string.red_flag_name, drawable.red_flag, GoogleMapPosition(49.9660542, 35.3483509),
     Carp, Crucian, SilverCarp, Amur, Zander, Pike)
+object Korobchino : Area(string.korobchino_name, drawable.korobchino, GoogleMapPosition(48.7612597, 31.4763808),
+    Carp, Crucian, SilverCarp, Amur, Zander, Pike)
