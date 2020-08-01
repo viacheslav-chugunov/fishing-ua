@@ -12,3 +12,5 @@ object AmateurPond : Area(string.amateur_pond_name, drawable.amateur_pond, Googl
     Carp, SilverCarp, Amur, Crucian, Roach, Tench, Pike, Perch, Ruff)
 object Ostapovka : Area(string.ostapovka_name, drawable.ostapovka, GoogleMapPosition(50.2314392, 33.6369601),
     Amur, Catfish, SilverCarp, Crucian, Carp, Perch, Pike, Roach)
+object Kutsevolovka : Area(string.kutsevolovka_name, drawable.kutsevolovka, GoogleMapPosition(48.8742872, 33.7873635),
+    Catfish, Pike, Asp, Bream, Perch, Crucian, Zander, Carp, Roach)
